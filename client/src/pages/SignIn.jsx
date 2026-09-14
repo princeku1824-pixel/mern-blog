@@ -1,8 +1,6 @@
 
 export default function SignIn() {
   return (
-    <div>
-      SignIn
-    </div>
+    <h2> SignIn </h2>
   )
 }
